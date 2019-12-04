@@ -1,1 +1,4 @@
-前端感想日记，心得分享，内容在 <a href='https://github.com/zhanzizhen/web-develop-record/issues'>Issues</a>
+记录编程过程中发现的一些小技巧。
+内容在Issues。
+
+
